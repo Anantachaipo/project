@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="497.0" prefWidth="798.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ku.cs.controller.HelpController">
+   <children>
+      <Button layoutX="309.0" layoutY="223.0" mnemonicParsing="false" prefHeight="52.0" prefWidth="180.0" text="คำขอคืนสิทธิการเข้าถึง" />
+   </children>
+</AnchorPane>
